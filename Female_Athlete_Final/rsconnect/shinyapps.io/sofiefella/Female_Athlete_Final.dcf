@@ -1,0 +1,13 @@
+name: Female_Athlete_Final
+title: Female_Athlete_Final
+username:
+account: sofiefella
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3397389
+bundleId: 3985263
+url: https://sofiefella.shinyapps.io/Female_Athlete_Final/
+when: 1607916687.27558
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Female Athlete R Script.R|www/.DS_Store
